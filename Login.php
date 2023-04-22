@@ -9,7 +9,7 @@
     <title>Login</title>
     <style>
       body{
-        background-image: url('portal.jpg');
+        background-image: url('background.jpg');
         background-size: auto;
       }
         form{
