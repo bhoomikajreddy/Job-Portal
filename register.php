@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
     <title>Register</title>
     <style>
       body{
-        background-image: url('portal.jpg');
+        background-image: url('background.jpg');
         background-size: auto;
       }
         form{
